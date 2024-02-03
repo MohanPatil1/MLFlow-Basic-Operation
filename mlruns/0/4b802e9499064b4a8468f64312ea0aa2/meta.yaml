@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow-test/mlruns/0/4b802e9499064b4a8468f64312ea0aa2/artifacts
+end_time: 1706871082346
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b802e9499064b4a8468f64312ea0aa2
+run_name: gaudy-robin-582
+run_uuid: 4b802e9499064b4a8468f64312ea0aa2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706871079043
+status: 3
+tags: []
+user_id: Mohan Patil

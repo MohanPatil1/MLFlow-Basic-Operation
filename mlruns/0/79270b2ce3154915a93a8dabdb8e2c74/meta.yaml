@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/mlflow-test/mlruns/0/79270b2ce3154915a93a8dabdb8e2c74/artifacts
+deleted_time: 1706870591996
+end_time: 1706869189744
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 79270b2ce3154915a93a8dabdb8e2c74
+run_name: able-gull-28
+run_uuid: 79270b2ce3154915a93a8dabdb8e2c74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706869184041
+status: 3
+tags: []
+user_id: Mohan Patil

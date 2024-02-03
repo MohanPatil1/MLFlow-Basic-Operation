@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow-test/mlruns/0/689f9996d77542afb0c81767b83cc162/artifacts
+end_time: 1706870566165
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 689f9996d77542afb0c81767b83cc162
+run_name: funny-eel-694
+run_uuid: 689f9996d77542afb0c81767b83cc162
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706870562942
+status: 3
+tags: []
+user_id: Mohan Patil

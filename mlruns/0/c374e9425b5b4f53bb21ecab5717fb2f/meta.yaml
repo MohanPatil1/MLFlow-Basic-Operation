@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow-test/mlruns/0/c374e9425b5b4f53bb21ecab5717fb2f/artifacts
+end_time: 1706870668724
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c374e9425b5b4f53bb21ecab5717fb2f
+run_name: dapper-perch-806
+run_uuid: c374e9425b5b4f53bb21ecab5717fb2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706870665510
+status: 3
+tags: []
+user_id: Mohan Patil
